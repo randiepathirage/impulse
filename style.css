@@ -10,11 +10,11 @@ h1 {
     width: 300px;
     text-align: center;
     font-family: Helvetica, Arial, san-serif;
-    text-transform: uppercase;
+    /* text-transform: uppercase;*/
     font-weight: bold;
     background-color: #000000;
     color: #ffffff;
-    font-size: 24px;
+    font-size: 20px;
     padding: 0px;
 }
 
