@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     color: #000000;
+    font-weight: bolder;
 }
 
 
@@ -57,4 +58,6 @@ h1 {
     margin-top: 10px;
     padding: 10px;
     width: 100px;
+    font-weight: bold;
+    align-self: center;
 }
