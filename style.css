@@ -1,0 +1,60 @@
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
+
+#team td {
+    height: 60px;
+    width: 300px;
+    text-align: center;
+    font-family: Helvetica, Arial, san-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 24px;
+    padding: 0px;
+}
+
+#team .title {
+    height: 30px;
+    font-size: 16px;
+}
+
+#team .blue {
+    background-color: dodgerblue;
+}
+
+#team .red {
+    background-color: #B82E8E;
+}
+
+#team .green {
+    background-color: dodgerblue;
+}
+
+#team .orange {
+    background-color: #B82E8E;
+}
+
+#team .grey {
+    background-color: dodgerblue;
+}
+
+.fade {
+    opacity: 1;
+    transition: opacity .1s ease-in-out;
+    -moz-transition: opacity .1s ease-in-out;
+    -webkit-transition: opacity .1s ease-in-out;
+}
+
+
+#random {
+    background-color: black;
+    color: #ffffff;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100px;
+}
