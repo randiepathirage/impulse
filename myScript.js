@@ -18,7 +18,6 @@ var team = [
   "Team Argus",
   "Delta club",
   "Quatro",
-  "AstraZeneca",
   "D-TSKers",
   "KB+",
   "Team CYRAYS"
@@ -69,7 +68,6 @@ var team = [
     document.getElementById("player-19").innerHTML = team[19];
     document.getElementById("player-20").innerHTML = team[20];
     document.getElementById("player-21").innerHTML = team[21];
-    document.getElementById("player-22").innerHTML = team[22];
   }
   
   // var myInterval = setInterval(shuffler, 50);
