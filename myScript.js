@@ -3,7 +3,6 @@ var team = [
   "Team Frontline",
   "Team Elite",
   "Fixers",
-  "Q1",
   "Revive",
   "Explorers",
   "STP CIRCLE",
@@ -67,7 +66,6 @@ var team = [
     document.getElementById("player-18").innerHTML = team[18];
     document.getElementById("player-19").innerHTML = team[19];
     document.getElementById("player-20").innerHTML = team[20];
-    document.getElementById("player-21").innerHTML = team[21];
   }
   
   // var myInterval = setInterval(shuffler, 50);
